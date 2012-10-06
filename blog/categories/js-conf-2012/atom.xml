@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: JS Conf 2012 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: JS Conf 2012 | jsdev.info]]></title>
   <link href="http://jeremysolarz.github.com/blog/categories/js-conf-2012/atom.xml" rel="self"/>
   <link href="http://jeremysolarz.github.com/"/>
-  <updated>2012-10-06T19:43:09+02:00</updated>
+  <updated>2012-10-06T19:50:44+02:00</updated>
   <id>http://jeremysolarz.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jeremy Solarz]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
