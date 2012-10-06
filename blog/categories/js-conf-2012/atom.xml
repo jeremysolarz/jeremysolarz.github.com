@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://jeremysolarz.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: JS Conf 2012 | My Octopress Blog]]></title>
+  <link href="http://jeremysolarz.github.com/blog/categories/js-conf-2012/atom.xml" rel="self"/>
   <link href="http://jeremysolarz.github.com/"/>
   <updated>2012-10-06T19:43:09+02:00</updated>
   <id>http://jeremysolarz.github.com/</id>
@@ -21,11 +21,10 @@
     <content type="html"><![CDATA[<p>This is a Test<br>
 test</p>
 
-<figure class='code'><figcaption><span>JavaScript Test - test.js </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>JavaScript Test - test.js </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">+</span> <span class="mi">2</span><span class="p">;</span>
-</span></code></pre></td></tr></table></div></figure>
-
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
