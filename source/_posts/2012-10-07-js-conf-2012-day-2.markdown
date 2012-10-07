@@ -1,0 +1,22 @@
+---
+layout: post
+title: "JS Conf 2012 - Day 2"
+date: 2012-10-07 10:05
+comments: off
+categories: ['JavaScript', 'JS Conf 2012']
+author: Jeremy Solarz
+---
+
+# 1. TypeScript
+
+1. Typed object params for functions
+1. Typed object definition can be externalized
+1. TypeScript -> JS -> Node.js
+
+# 3. The Web's Black Magic
+
+1. innerText => causes reflow?! => change yes, but read?
+1. Yes, innerText read causes reflow in WebKit
+1. Recalc re-populates up the DOM tree...
+1. Access <=> same loop as setters
+1. 
