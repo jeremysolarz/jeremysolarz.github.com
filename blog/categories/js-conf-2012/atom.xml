@@ -4,7 +4,7 @@
   <title><![CDATA[Category: JS Conf 2012 | jsdev.info]]></title>
   <link href="http://jeremysolarz.github.com/blog/categories/js-conf-2012/atom.xml" rel="self"/>
   <link href="http://jeremysolarz.github.com/"/>
-  <updated>2012-10-07T10:10:04+02:00</updated>
+  <updated>2012-10-07T11:42:17+02:00</updated>
   <id>http://jeremysolarz.github.com/</id>
   <author>
     <name><![CDATA[Jeremy Solarz]]></name>
@@ -23,6 +23,18 @@
 <ol>
 <li>Typed object params for functions</li>
 <li>Typed object definition can be externalized</li>
+<li>TypeScript -> JS -> Node.js</li>
+</ol>
+
+
+<h1>3. The Web's Black Magic</h1>
+
+<ol>
+<li>innerText => causes reflow?! => change yes, but read?</li>
+<li>Yes, innerText read causes reflow in WebKit</li>
+<li>Recalc re-populates up the DOM tree...</li>
+<li>Access &lt;=> same loop as setters</li>
+<li></li>
 </ol>
 
 ]]></content>
