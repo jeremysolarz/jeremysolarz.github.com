@@ -4,7 +4,7 @@
   <title><![CDATA[jsdev.info]]></title>
   <link href="http://jeremysolarz.github.com/atom.xml" rel="self"/>
   <link href="http://jeremysolarz.github.com/"/>
-  <updated>2012-10-07T12:12:31+02:00</updated>
+  <updated>2013-03-23T20:50:10+01:00</updated>
   <id>http://jeremysolarz.github.com/</id>
   <author>
     <name><![CDATA[Jeremy Solarz]]></name>
@@ -42,6 +42,25 @@
 <ol>
 <li>Templates &amp; Elements</li>
 <li><a href="http://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html">Web Elements</a></li>
+</ol>
+
+
+<h2>5. A novel, efficient approach to JavaScript loading</h2>
+
+<ol>
+<li>module - graph => require.js calculates loadable files</li>
+<li>Negative Loading => url has info which modueles to load &amp; not load (already have)</li>
+<li>check when load completes (when add script to head - DOM)?</li>
+<li>wrap js response in closure to provide namespace for loaded globals</li>
+</ol>
+
+
+<h2>6. Prof. JavaScript and his incredible machines</h2>
+
+<ol>
+<li>Spot trolls - wireless power plug, zig</li>
+<li>zig - Open Protocol</li>
+<li>beebee API</li>
 </ol>
 
 ]]></content>
